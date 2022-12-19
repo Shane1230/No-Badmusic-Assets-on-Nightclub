@@ -1,0 +1,22 @@
+{
+	"name" : "No Badmusic Assets on Nightclub",
+	"description" : "Disable Badmusic assets on nightclub heist",
+	"author" : "Shane",
+	"Contact" : "https://steamcommunity.com/id/Shane1230/",
+	"version" : "1.0",
+	"priority": 1,
+	"hooks": [
+		{ 
+			"hook_id" : "lib/tweak_data/assetstweakdata",
+			"script_path" : "NBM.lua"
+		}
+	],
+	"updates": [
+        {
+		"identifier": "temp",
+		"host": {
+		"meta": ""
+	 	}
+	}
+	]
+}
