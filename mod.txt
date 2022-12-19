@@ -13,9 +13,9 @@
 	],
 	"updates": [
         {
-		"identifier": "temp",
+		"identifier": "nbm",
 		"host": {
-		"meta": ""
+		"meta": "https://raw.githubusercontent.com/Shane1230/autoupdate/main/NBM"
 	 	}
 	}
 	]
